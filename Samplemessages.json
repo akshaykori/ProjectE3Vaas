@@ -1,0 +1,50 @@
+{
+	"PaymentVaasE3": [{
+			"PutRequest": {
+				"Item": {
+					"MessageStatus": {
+						"S": "201"
+					},
+					"Messageswift": {
+						"S": "Temp Message"
+					},
+					"Validation status": {
+						"S": "N"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"MessageStatus": {
+						"S": "202"
+					},
+					"Messageswift": {
+						"S": "Temp Message2"
+					},
+					"Validation status": {
+						"S": "Y"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+		"Item": {
+					"MessageStatus": {
+						"S": "203"
+					},
+					"Messageswift": {
+						"S": "Temp Message3"
+					},
+					"Validation status": {
+						"S": "Y"
+					}
+				}
+			}
+		}	
+
+
+	]
+}
