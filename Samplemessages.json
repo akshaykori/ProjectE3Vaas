@@ -1,9 +1,9 @@
 {
-	"PaymentVaasE3": [{
+	"PaymtVaasE3": [{
 			"PutRequest": {
 				"Item": {
-					"MessageStatus": {
-						"S": "201"
+					"Id": {
+						"N": "201"
 					},
 					"Messageswift": {
 						"S": "Temp Message"
@@ -17,7 +17,7 @@
 		{
 			"PutRequest": {
 				"Item": {
-					"MessageStatus": {
+					"Id": {
 						"S": "202"
 					},
 					"Messageswift": {
@@ -32,7 +32,7 @@
 		{
 			"PutRequest": {
 		"Item": {
-					"MessageStatus": {
+					"Id": {
 						"S": "203"
 					},
 					"Messageswift": {
