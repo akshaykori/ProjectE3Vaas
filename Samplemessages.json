@@ -11,6 +11,12 @@
 					"Validation status": {
 						"S": "N"
 					}
+					"Date inserted": {
+						"S": "20210913"
+					}
+					"Validation Type": {
+						"S": "MT101"
+					}
 				}
 			}
 		},
@@ -26,6 +32,12 @@
 					"Validation status": {
 						"S": "Y"
 					}
+					"Date inserted": {
+						"S": "20210913"
+					}
+					"Validation Type": {
+						"S": "MT101"
+					}
 				}
 			}
 		},
@@ -40,6 +52,12 @@
 					},
 					"Validation status": {
 						"S": "Y"
+					}
+					"Date inserted": {
+						"S": "20210913"
+					}
+					"Validation Type": {
+						"S": "MT101"
 					}
 				}
 			}
